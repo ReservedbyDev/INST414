@@ -1,0 +1,8 @@
+pandas
+numpy
+requests
+scikit-learn
+matplotlib
+seaborn
+networkx
+psycopg2-binary
